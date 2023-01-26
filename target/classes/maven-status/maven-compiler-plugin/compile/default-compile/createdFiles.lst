@@ -1,0 +1,5 @@
+com\eazybytes\loans\repository\LoansRepository.class
+com\eazybytes\loans\LoansApplication.class
+com\eazybytes\loans\model\Customer.class
+com\eazybytes\loans\model\Loans.class
+com\eazybytes\loans\controller\LoansController.class
